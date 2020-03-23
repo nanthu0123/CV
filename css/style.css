@@ -1,0 +1,22 @@
+body {
+  
+}
+hr {
+  border-style: none;
+  border-top-style: solid;
+  border-top-width: 1px;
+  border-color: #3b6978;
+  width: 100%;
+}
+h2 {
+  color: #fe346e;
+}
+h2:hover {
+  color: #2b580c;
+}
+.container {
+  background-color: #cae8d5;
+  margin: auto;
+  width: 60%;
+  padding: 20px 100px 20px 100px;
+}
